@@ -26,7 +26,7 @@ function Quiz() {
             <div className="col-4"> 
                 <h1 className="welcome">Welcome to the Quiz Arena</h1>
             </div>      
-            <div className="col-4 timer"> 
+            <div className="col-4"> 
             <img src="/board.png" alt="board" className="board"></img><h3 className="timer">Time Remaining <Timer/></h3>
                 
             </div>
