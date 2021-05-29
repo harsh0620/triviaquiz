@@ -1,13 +1,9 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Share+Tech&display=swap");
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+html body {
+  background-color: #6a98f0;
+  background: fixed;
+  font-family: "Roboto", sans-serif;
+  font-family: "Share Tech", sans-serif;
+  background-image: -webkit-linear-gradient(62.7deg, #6a98f0 45%, white 55%);
 }
